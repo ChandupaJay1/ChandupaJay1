@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with **others**
 
-- 👨‍💻 All of my projects are available at [https://nerdtechlk.com/?i=1](https://nerdtechlk.com/?i=1)
+- 👨‍💻 All of our projects are available at [My Company Web](https://nerdtechlk.com/?i=1)
 
 - 💬 Ask me about **anything**
 
