@@ -1,4 +1,5 @@
 [![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)](https://nerdtechlk.com/?i=1)
+
 <h1 align="center">Hi 👋, I'm Chandupa Jayalath</h1>
 <h3 align="center">A passionate frontend & backend developer from Sri Lanka.</h3>
 <img align="right" alt="Coding" width="400" src="https://static.wixstatic.com/media/bbe642_62414e50bef34ce28db1afabf55f17ec~mv2.gif">
@@ -54,13 +55,5 @@
 
 </p>
 
-[![](https://raw.githubusercontent.com/ChandupaJay1/ChandupaJay12/master/profile-summary-card-output/gotham/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://github.com/vn7n24fzkq/github-profile-summary-cards)![](https://raw.githubusercontent.com/ChandupaJay1/ChandupaJay12/master/profile-summary-card-output/gotham/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)[![](https://raw.githubusercontent.com/ChandupaJay1/ChandupaJay12/master/profile-summary-card-output/gotham/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) 
-
-
-
-
-
-
-
-
+[![](https://raw.githubusercontent.com/ChandupaJay1/ChandupaJay12/master/profile-summary-card-output/github_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://github.com/vn7n24fzkq/github-profile-summary-cards)![](https://raw.githubusercontent.com/ChandupaJay1/ChandupaJay12/master/profile-summary-card-output/github_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) &nbsp;&nbsp; [![](https://raw.githubusercontent.com/ChandupaJay1/ChandupaJay12/master/profile-summary-card-output/github_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
