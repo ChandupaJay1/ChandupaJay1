@@ -54,6 +54,11 @@
 <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="80" height="80"/> </a> &nbsp;&nbsp;&nbsp;&nbsp;
 
 </p>
+</br></br>
 
-[![](https://raw.githubusercontent.com/ChandupaJay1/ChandupaJay12/master/profile-summary-card-output/github_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://github.com/vn7n24fzkq/github-profile-summary-cards)![](https://raw.githubusercontent.com/ChandupaJay1/ChandupaJay12/master/profile-summary-card-output/github_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) &nbsp;&nbsp;&nbsp; [![](https://raw.githubusercontent.com/ChandupaJay1/ChandupaJay12/master/profile-summary-card-output/github_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/ChandupaJay1/ChandupaJay12/master/profile-summary-card-output/nord_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+</br>
+[![](https://github.com/vn7n24fzkq/github-profile-summary-cards) 
+</br>
+![](https://raw.githubusercontent.com/ChandupaJay1/ChandupaJay12/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) &nbsp;&nbsp;&nbsp; [![](https://raw.githubusercontent.com/ChandupaJay1/ChandupaJay12/master/profile-summary-card-output/nord_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+</br>
