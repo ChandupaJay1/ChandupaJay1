@@ -4,7 +4,9 @@
 <h3 align="center">A passionate frontend & backend developer from Sri Lanka.</h3>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif">
 
-[![](https://visitcount.itsvg.in/api?id=ChandupaJay1&icon=0&color=3)](https://visitcount.itsvg.in)
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=ChandupaJay1&label=Profile%20views&color=4caf50&style=flat" alt="ChandupaJay1" /> 
+</p>
 
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Chandupa123)
 
