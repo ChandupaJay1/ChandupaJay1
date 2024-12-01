@@ -4,9 +4,12 @@
 <h3 align="center">A passionate frontend & backend developer from Sri Lanka.</h3>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=chandupajay1&label=Profile%20views&color=0e75b6&style=flat" alt="chandupajay1" /> </p>
+[![](https://visitcount.itsvg.in/api?id=ChandupaJay1&icon=0&color=3)](https://visitcount.itsvg.in)
 
-<p align="left"> <a href="https://twitter.com/chandupa123" target="blank"><img src="https://img.shields.io/twitter/follow/chandupa123?logo=twitter&style=for-the-badge" alt="chandupa123" /></a> </p>
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Chandupa123)
+
+
+<span align="left">💫 About Me:</span>
 
 - 🔭 I’m currently working on [NerdTech](https://nerdtechlk.com/?i=1)
 
@@ -24,7 +27,7 @@
 
 - ⚡ Seriously **I think I'm the luckiest person.**
 
-<h3 align="left">Connect with me:</h3>
+# <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/chandupa123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="chandupa123" height="30" width="40" /></a>
 <a href="https://fb.com/https://facebook.com/chandupajayalath2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://facebook.com/chandupajayalath2" height="30" width="40" /></a>
@@ -32,7 +35,7 @@
 <a href="https://www.youtube.com/c/https://www.youtube.com/@chandupajayalath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@chandupajayalath" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+# <h3 align="left">Languages and Tools:</h3>
 
 <p align="center"> 
   
@@ -62,3 +65,7 @@
 </br>
 ![](https://raw.githubusercontent.com/ChandupaJay1/ChandupaJay12/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) &nbsp;&nbsp;&nbsp; [![](https://raw.githubusercontent.com/ChandupaJay1/ChandupaJay12/master/profile-summary-card-output/nord_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 </br>
+
+## 💰 You can help me by Donating
+
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/chandupajayalath)]
