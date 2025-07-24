@@ -35,7 +35,8 @@
 
 ---
 
-### <h3 align="left">🛠️ Skills & Tools</h3>
+### 🛠️ Skills & Tools
+
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,php,mysql,mongodb,nodejs,react,arduino,git,firebase,illustrator,photoshop,unity" />
 </p>
@@ -45,20 +46,26 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ChandupaJay1&theme=tokyonight&hide_border=true" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=ChandupaJay1&show_icons=true&theme=tokyonight&hide_border=true" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChandupaJay1&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ChandupaJay1&show_icons=true&theme=radical&border_radius=12&hide_border=true" alt="Chandupa's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ChandupaJay1&theme=radical&hide_border=true&border_radius=12" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChandupaJay1&layout=compact&theme=radical&hide_border=true&border_radius=12" alt="Top Languages Used" />
 </p>
 
 ---
 
 ### 🎯 Achievements & Contributions
 
-[![](https://raw.githubusercontent.com/ChandupaJay1/ChandupaJay12/master/profile-summary-card-output/nord_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/ChandupaJay1/ChandupaJay12/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/ChandupaJay1/ChandupaJay12/master/profile-summary-card-output/nord_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ChandupaJay1&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ChandupaJay1&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ChandupaJay1&theme=tokyonight" />
+</p>
 
 ---
 
