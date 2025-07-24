@@ -35,10 +35,9 @@
 
 ---
 
-### 🛠️ Skills & Tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,php,mysql,mongodb,nodejs,react,reactnative,arduino,git,firebase,illustrator,photoshop,unity" />
+### <h3 align="left">🛠️ Skills & Tools</h3>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,php,mysql,mongodb,nodejs,react,arduino,git,firebase,illustrator,photoshop,unity" />
 </p>
 
 ---
