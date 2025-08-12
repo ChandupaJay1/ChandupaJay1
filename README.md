@@ -50,11 +50,11 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ChandupaJay1&theme=radical&hide_border=true&border_radius=12" alt="GitHub Streak" />
+ <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ChandupaJay1" alt="GitHub Streak" /></a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChandupaJay1&layout=compact&theme=radical&hide_border=true&border_radius=12" alt="Top Languages Used" />
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=&theme=dracula" alt="GitHub Streak" /></a>
 </p>
 
 ---
