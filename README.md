@@ -45,13 +45,13 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ChandupaJay1&show_icons=true&theme=radical&border_radius=12&hide_border=true" alt="Chandupa's GitHub Stats" />
-</p>
+![](https://github-readme-stats.vercel.app/api?username=ChandupaJay1&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=ChandupaJay1&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ChandupaJay1&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChandupaJay1&layout=compact&theme=radical&hide_border=true&border_radius=12" alt="Top Languages Used" />
-</p>
+### 🔝 Top Contributed Repo
+
+![](https://github-contributor-stats.vercel.app/api?username=ChandupaJay1&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 
