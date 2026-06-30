@@ -15,7 +15,7 @@
 
 ### 🧠 About Me
 
-- 🔭 I’m currently working on [**NerdTech**](https://nerdtechlk.com)
+- 🔭 Founder @[**NerdTech Labs**](https://nerdtechlabs.info/)
 - 🎓 Studying at **Java Institute for Advanced Technology, Sri Lanka**
 - 💬 Ask me about anything tech, I’m happy to help!
 - 📫 Reach me at: **chandupajayalath20@gmail.com**
