@@ -45,11 +45,11 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ChandupaJay1&theme=dark&hide_border=false&include_all_commits=true&count_private=true" width="49%" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=ChandupaJay1&theme=dark&hide_border=false" width="49%" />
+  <img src="https://github-readme-stats-git-master-devhomechandupa.vercel.app/api?username=ChandupaJay1&theme=dark&hide_border=false&include_all_commits=true&count_private=true" width="49%" />
+  <img src="https://streak-stats.demolab.com?user=ChandupaJay1&theme=dark&hide_border=false" width="49%" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChandupaJay1&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="49%" />
+  <img src="https://github-readme-stats-git-master-devhomechandupa.vercel.app/api/top-langs/?username=ChandupaJay1&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="49%" />
 </p>
 
 ---
