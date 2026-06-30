@@ -44,23 +44,26 @@
 ---
 
 ### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ChandupaJay1&theme=dark&hide_border=false&include_all_commits=true&count_private=true" width="49%" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=ChandupaJay1&theme=dark&hide_border=false" width="49%" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChandupaJay1&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="49%" />
+</p>
 
-![](https://github-readme-stats.vercel.app/api?username=ChandupaJay1&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=ChandupaJay1&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ChandupaJay1&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+---
 
 ### 🔝 Top Contributed Repo
-
-![](https://github-contributor-stats.vercel.app/api?username=ChandupaJay1&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=ChandupaJay1&limit=5&theme=dark&combine_all_yearly_contributions=true" />
+</p>
 
 ---
 
 ### 🎯 Achievements & Contributions
-
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ChandupaJay1&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ChandupaJay1&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ChandupaJay1&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ChandupaJay1&theme=dark" />
 </p>
 
 ---
