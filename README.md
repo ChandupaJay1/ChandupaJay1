@@ -46,18 +46,21 @@
 ---
 
 ### 📊 GitHub Stats
+
+<p align="center">
   <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level-alternate&theme=dark&fontFamily=Chiron%20GoRound%20TC&preferLogin=true&borderRadius=8">    <img  alt="ChandupaJay1's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/ChandupaJay1?cardType=level-alternate&theme=dark&fontFamily=Chiron%20GoRound%20TC&preferLogin=true&borderRadius=8" />  </a>
----
+  </p>
+
 
 ### 🔝 Top Contributed Repo
 
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=ChandupaJay1&theme=dark&hide_border=false" width="32%" height="30%"/>
+  <img src="https://streak-stats.demolab.com/?user=ChandupaJay1&theme=dark&hide_border=false" width="40%""/>
+  <br>
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=ChandupaJay1&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="32%" />
 </p>
 
----
 
 ### 🎯 Achievements & Contributions
 <p align="center">
