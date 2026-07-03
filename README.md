@@ -44,8 +44,7 @@
 ---
 
 ### 📊 GitHub Stats
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/ChandupaJay1?cardType=level-alternate&theme=dark&fontFamily=Chiron%20GoRound%20TC&preferLogin=true&borderRadius=8)](https://git.io/awesome-stats-card)
-
+  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level-alternate&theme=dark&fontFamily=Chiron%20GoRound%20TC&preferLogin=true&borderRadius=8">    <img  alt="ChandupaJay1's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/ChandupaJay1?cardType=level-alternate&theme=dark&fontFamily=Chiron%20GoRound%20TC&preferLogin=true&borderRadius=8" />  </a>
 ---
 
 ### 🔝 Top Contributed Repo
