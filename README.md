@@ -50,8 +50,11 @@
 ---
 
 ### 🔝 Top Contributed Repo
+
+
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=ChandupaJay1&limit=5&theme=dark&combine_all_yearly_contributions=true" />
+  <img src="https://streak-stats.demolab.com/?user=ChandupaJay1&theme=dark&hide_border=false" width="32%" height="30%"/>
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=ChandupaJay1&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="32%" />
 </p>
 
 ---
