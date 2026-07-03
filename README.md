@@ -34,6 +34,8 @@
 </p>
 
 ---
+![Typing SVG](https://readme-stats-github.pages.dev/api/typing?lines=%E2%80%9CRepetition%20is%20the%20root%20of%20all%20software%20evil.%E2%80%9D&theme=dark&color=%23000000&particleColor=%23d9c4c4&background=%23000000)
+---
 
 ### 🛠️ Skills & Tools
 
