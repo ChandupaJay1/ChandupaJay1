@@ -44,13 +44,7 @@
 ---
 
 ### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats-git-master-devhomechandupa.vercel.app/api?username=ChandupaJay1&theme=dark&hide_border=false&include_all_commits=true&count_private=true" width="49%" />
-  <img src="https://streak-stats.demolab.com?user=ChandupaJay1&theme=dark&hide_border=false" width="49%" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats-git-master-devhomechandupa.vercel.app/api/top-langs/?username=ChandupaJay1&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="49%" />
-</p>
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/ChandupaJay1?cardType=level-alternate&theme=dark&fontFamily=Chiron%20GoRound%20TC&preferLogin=true&borderRadius=8)](https://git.io/awesome-stats-card)
 
 ---
 
