@@ -47,7 +47,8 @@ I'm a passionate **Full-Stack Developer** who enjoys transforming ideas into pra
 I work across **web development, mobile applications, UI/UX design, databases, and emerging AI technologies**.
 
 - 🔭 Founder of **NerdTech Labs**
-- 🎓 Studying at **Java Institute for Advanced Technology, Sri Lanka**
+- 🎓 BSc (Hons) in Software Engineering — Birmingham City University
+- 🏫 Completed the degree programme at Java Institute for Advanced Technology, Sri Lanka
 - 💻 Interested in **Full-Stack & Mobile Development**
 - 🎨 Passionate about **UI/UX & Creative Technology**
 - 🤖 Exploring **AI-assisted development & modern AI tools**
